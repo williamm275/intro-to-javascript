@@ -1,1 +1,1 @@
-# Introduction to JavaScript Programming Exersizes
+# Introduction to JavaScript Programming Exercises
